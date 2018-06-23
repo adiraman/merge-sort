@@ -1,20 +1,3 @@
-/*
- * =====================================================================================
- *
- *       Filename:  main.cpp
- *
- *    Description:  An example of merge sort algorithm
- *
- *        Version:  1.0
- *        Created:  10/16/2017 12:34:29 PM
- *       Revision:  none
- *       Compiler:  gcc
- *
- *         Author:  Aditya Raman
- *
- * =====================================================================================
- */
-
 #include "mergeSort.h"
 #include <cstdlib>
 #include <ctime>
