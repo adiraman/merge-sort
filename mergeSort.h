@@ -1,20 +1,3 @@
-/*
- * =====================================================================================
- *
- *       Filename:  mergeSort.h
- *
- *    Description:  Include file for the mergeSort Algorithm
- *
- *        Version:  1.0
- *        Created:  10/16/2017 07:47:32 PM
- *       Revision:  none
- *       Compiler:  gcc
- *
- *         Author:  Aditya Raman
- *
- * =====================================================================================
- */
-
 #include <iostream>
 #include <vector>
 

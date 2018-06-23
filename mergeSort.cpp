@@ -1,20 +1,3 @@
-/*
- * =====================================================================================
- *
- *       Filename:  mergeSort.cpp
- *
- *    Description:  Source file for the merge sort algorithm
- *
- *        Version:  1.0
- *        Created:  10/16/2017 07:50:26 PM
- *       Revision:  none
- *       Compiler:  gcc
- *
- *         Author:  Aditya Raman
- *
- * =====================================================================================
- */
-
 #include "mergeSort.h"
 
 // The merge subroutine to properly manage the merging of two
